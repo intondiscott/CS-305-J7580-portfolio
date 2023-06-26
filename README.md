@@ -1,5 +1,5 @@
 <div><h1 align="center">📚 CS-305-J7580-portfolio 📚</h1>
-<img src="https://learn.snhu.edu/content/enforced/1311887-CS-305-J7580-OL-TRAD-UG.23EW5/course_documents/Module%20Eight%20Journal%20Image.jpg?_&d2lSessionVal=jMkir4dPI7k37EvvXSD8n8HWR&ou=1311887" /> </div>
+<img width="100%" src="https://github.com/intondiscott/CS-305-J7580-portfolio/assets/73749875/d87ce0cb-7701-436d-b432-13664c250e74" /> </div>
 
 <!-- Answering all the questions about my project-->
 <div>
